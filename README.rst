@@ -39,9 +39,6 @@
                |  Each channel is mapped to a queue.
                |  The queue name has the # portion stripped off.
 
-            - username(str)(None)
-               |  The username to authenticate against the server
-
             - password(str)(None)
                |  The password used to authenticate
 
