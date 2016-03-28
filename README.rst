@@ -13,7 +13,7 @@
     wishbone.input.irc
     ==================
 
-    Version: 0.1.0
+    Version: 1.0.0
 
     Joins an IRC channel to accept input.
     -------------------------------------
